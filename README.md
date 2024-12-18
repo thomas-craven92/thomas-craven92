@@ -24,3 +24,9 @@ About Me:
 
 - ⚡ Fun fact: ...
   - I've travelled to 38 countries!
+
+My Projects:
+
+Myrides-v2 is a project for a business I co-own which advertises motorcycle events in the south island. It's currently built with Squarespace and I'm in progress of building it from scratch.
+https://stellar-share-mania-roa-24.pushed.nz/ Here is our final group project from my time at Dev Academy. A fun, space themed trading post with the ability to rate both items and users.
+Pupparazzi is a project from my studies using Express router and showcasing CRUD operations.
