@@ -2,13 +2,13 @@ Hi there, I'm Thomas! 👋
 
 About Me:
  
-- 🔭 I’m currently working on ...
-  - Building my current website from scratch to move away from squarespace.
-  - Finding a job!
+- 🔭 I’m currently working with ...
+  - Client-side: HTML5, CSS, Tailwind CSS, React, Typescript
+  - Server-side: Node.js, Express, SQLite3, Knex, RESTful API, Auth0
+  - +: Git/Hub, Vite
 
 - 🌱 I’m currently learning ...
-  - React, Node, Typescript, Knex
-  - Astro, next.js
+   - Astro, next.js
     
 - 👯 I’m looking to collaborate on ...
   - Anything, hit me up for collaborative projects!
