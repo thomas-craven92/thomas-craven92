@@ -3,7 +3,7 @@ Hi there, I'm Thomas! 👋
 About Me:
  
 - 🔭 I’m currently working with ...
-  - Client-side: HTML5, CSS, Tailwind CSS, React, Typescript
+  - Client-side: HTML5, CSS, Sass, React, Typescript
   - Server-side: Node.js, Express, SQLite3, Knex, RESTful API, Auth0
   - +: Git/Hub, Vite
 
